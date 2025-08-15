@@ -1,3 +1,5 @@
+YOU CAN ONLY RUN THESE AS ROOT!!!
+
 RGB Quest:  
 ```sh
 adb push rainbow.sh /data/local/tmp/rainbow.sh
